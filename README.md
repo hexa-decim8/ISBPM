@@ -1,7 +1,7 @@
 # Intro to Software Business Product Management
 ## Syllabus
 
-Welcome to Intro to Software Business Product Management. This course is designed to establish a fundamental understanding of how modern software is developed, tested, and deployed. To 
+Welcome to Intro to Software Business Product Management. This is a 5 week course which starts on April 11th, 2023 and ends on May 11th, 2023. This course is designed to establish a fundamental understanding of how modern software is developed, tested, and deployed.
 
 By the end of this class, you will be familiar with:
 * The Software Development Lifecycle (SDLC)
@@ -14,3 +14,10 @@ By the end of this class, you will be familiar with:
 * Differences between mobile & embedded applications
 * Different approaches to software testing
 * The role of the 'V' model of activities for system engineering
+
+## Tools
+In this class, we will be working with the following tools:
+* Github
+* Jira
+* Confluence
+* Moodle
