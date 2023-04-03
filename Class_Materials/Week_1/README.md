@@ -21,8 +21,8 @@
 		* Network breaches, loss of IP, loss of customer data, loss of company reputation
 		* "spaghetti code"
 		* difficulty maintaining codebase in the future (i.e. 'legacy' development issues...very costly)
-4. Quick review
-5. Questions?
+4. Questions?
+5. Review day 1
 6. Preview of Day 2
 	* Things to think about:
 		* How would you solve these problems?
@@ -52,8 +52,8 @@
 			* Who is the "front door" for concerns with our app?
 			* How will our customers communicate their needs?
 			* How do we process those needs and synthesize them into new features?
-4. Quick review
-5. Questions?
+4. Questions?
+5. Review day 2
 6. Preview of Day 3
 
 ### Day 3
@@ -76,6 +76,6 @@
 		* Who designs?
 			* System architect
 			* UX/UI designer
-4. Recap day 3
-5. Questions?
+4. Questions?
+5. Recap day 3
 6. Preview of week 2

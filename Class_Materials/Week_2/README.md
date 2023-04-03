@@ -21,9 +21,13 @@
 		* Testers
 		* Support managers/field operations/customer support
 3. The Circle of Life!
+4. Questions?
+5. Recap day 1
+6. Preview day 2
+
 
 ### Day 2
-1. Review of Day 1
+1. Review of day 1
 2. Sensitivities of the SDLC
 	* What breaks the SDLC?
 		* Poor communication
@@ -34,9 +38,12 @@
 	* General architecture choices
 		* Cloud based architecture?
 		* "on-prem"
+4. Questions?
+5. Recap day 2
+6. Preview day 3
 
 ### Day 3
-1. Review of Day 2
+1. Review of day 2
 2. Architecture Development Model
 	* How the ADM is similar to the SDLC
 	* Prelim: start with the principles
@@ -49,3 +56,6 @@
 	* G: Implementation planning
 	* H: Architecture change management
 	* Requirements management on all steps
+3. Questions?
+4. Recap day 3
+5. Preview week 3
