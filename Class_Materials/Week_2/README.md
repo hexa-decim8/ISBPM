@@ -25,7 +25,6 @@
 5. Recap day 1
 6. Preview day 2
 
-
 ### Day 2
 1. Review of day 1
 2. Sensitivities of the SDLC
