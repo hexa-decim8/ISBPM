@@ -31,7 +31,7 @@
 2. Sensitivities of the SDLC
 	* What breaks the SDLC?
 		* Poor communication
-		* Poor code maintenance (code commenting or lack-thereof)
+		* Poor codebase maintenance/management (code commenting or lack-thereof)
 		* "Scope creep"
 3. Architecture development
 	* What's important?
