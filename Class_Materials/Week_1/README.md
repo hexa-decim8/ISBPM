@@ -21,8 +21,8 @@
 		* Network breaches, loss of IP, loss of customer data, loss of company reputation
 		* "spaghetti code"
 		* difficulty maintaining codebase in the future (i.e. 'legacy' development issues...very costly)
-4. Quick review
-5. Questions?
+4. Questions?
+5. Review day 1
 6. Preview of Day 2
 	* Things to think about:
 		* How would you solve these problems?
@@ -52,18 +52,19 @@
 			* Who is the "front door" for concerns with our app?
 			* How will our customers communicate their needs?
 			* How do we process those needs and synthesize them into new features?
-4. The role of software
+4. Questions?
+5. Review day 2
+6. Preview of Day 3
+
+### Day 3
+1. Recap Day 2
+2. Applications overview
+	* What is the role of software?
 	* Operating systems vs. applications
 		* Types of applications:
 			* Mobile applications
 			* Embedded applications
 	* Where does IoT fit in?
-4. Quick review
-5. Questions?
-6. Preview of Day 3
-
-### Day 3
-1. Recap Day 2
 2. What is the Software Development Lifecycle?
 	* Requirement analysis & collection
 		* Roles:
@@ -75,25 +76,6 @@
 		* Who designs?
 			* System architect
 			* UX/UI designer
-	* Implementation
-		* Who builds?
-			* "front-end" developer
-			* "back-end" developer
-	* Testing
-		* How do we test?
-			* Solutions architect
-			* QA engineer
-			* Tester
-			* DEVOPS
-	* Deployment
-		* Data Administrator
-		* DEVOPS
-	* Maintenance
-		* Users
-		* Testers
-		* Support managers/field operations/customer support
-3. The Circle of Life!
-4. Recap day 3
-5. Questions?
+4. Questions?
+5. Recap day 3
 6. Preview of week 2
-
