@@ -1,5 +1,5 @@
 # Intro to Software Business Product Management
-## Week 1
+## Week 1 Overview
 ### Day 1
 1. Introductions
 	* Instructor introduction

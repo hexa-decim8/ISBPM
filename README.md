@@ -1,6 +1,7 @@
 # Intro to Software Business Product Management - Syllabus
 ## Instructor Contact
 Instructor: Emily Crose
+
 Contact email: @oakland.edu
 
 ## Basic Course Information
