@@ -8,12 +8,18 @@
 2. Basic operations and course overview
 3. A basic understanding of modern software
 	* Differences between hardware & software
-	* Modern software operation
+	* Modern software topics
 		* "cloud" based software
 		* Mobile & IoT software
 		* Desktop software
 	* Operating systems
-3. Why do we care about software development?
+4. Basic software development terminology
+	* Modern concepts/what's hot in software development
+		* "the cloud"
+			* What is it?
+			* Have we seen this before? (mainframes?)
+		* Internet of Things
+5. Why do we care about software development?
 	* What happens when we get software development wrong?
 		* Exploitation & failure
 			* Risk of injury?
@@ -21,22 +27,17 @@
 		* Network breaches, loss of IP, loss of customer data, loss of company reputation
 		* "spaghetti code"
 		* difficulty maintaining codebase in the future (i.e. 'legacy' development issues...very costly)
-4. Questions?
-5. Review day 1
-6. Preview of Day 2
+6. Questions?
+7. Review day 1
+8. Preview of Day 2
 	* Things to think about:
 		* How would you solve these problems?
 		* Are there any project management ideas you bring that may apply to some of these problems?
 
 ### Day 2
 1. Recap Day 1
-2. Basic software development terminology
-	* Modern concepts/what's hot in software development
-		* "the cloud"
-			* What is it?
-			* Have we seen this before? (mainframes?)
-		* Internet of Things
-3. Tenants of modern software development
+
+2. Tenants of modern software development
 	* What we must do to end up with a working app:
 		* We must discover the problems the app would solve (requirements)
 		* We must figure out how this app will do what it does
@@ -52,9 +53,9 @@
 			* Who is the "front door" for concerns with our app?
 			* How will our customers communicate their needs?
 			* How do we process those needs and synthesize them into new features?
-4. Questions?
-5. Review day 2
-6. Preview of Day 3
+3. Questions?
+4. Review day 2
+5. Preview of Day 3
 
 ### Day 3
 1. Recap Day 2
