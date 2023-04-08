@@ -2,7 +2,7 @@
 ## Instructor Contact
 Instructor: Emily Crose
 
-Contact email: @oakland.edu
+Contact email: ecrose@oakland.edu
 
 ## Basic Course Information
 
