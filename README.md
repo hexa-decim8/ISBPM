@@ -38,5 +38,25 @@ In this class, we will be working with the following tools:
 * Confluence
 * Moodle
 
+### Week-By-Week
+#### Week 1
+* Introductions
+* Class introduction
+* Introductory exploration of software & technology
+* Conceptualizing software development
+* Software Development Life Cycle
+
+#### Week 2
+* Continue SDLC understanding
+* Sensitivities of the SDLC
+* Architecture development
+* Architecture development model
+
+#### Week 3
+
+#### Week 4
+
+#### Week 5
+
 ### Questions
 Asking questions is encouraged throughout the class time. There will be a time alloted at the end of each day to ask and answer any held questions, however participants need not feel pressure to wait until that time when an important question arises. 
