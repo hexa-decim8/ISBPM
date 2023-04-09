@@ -21,3 +21,10 @@
 3. Questions?
 4. Review day 2
 5. Preview of Day 3
+
+## References
+* https://web.stanford.edu/class/cs101/software-1.html
+* https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/
+* https://github.com/twitter/the-algorithm
+* https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/nsfw/nsfw_text.py
+* https://github.com/hexa-decim8/girltalk/blob/master/girltalk.sh
