@@ -28,3 +28,4 @@
 * https://github.com/twitter/the-algorithm
 * https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/nsfw/nsfw_text.py
 * https://github.com/hexa-decim8/girltalk/blob/master/girltalk.sh
+* https://github.com/0x5bfa/NT5.1/tree/master/Source/XPSP1/NT/shell/explorer
