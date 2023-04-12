@@ -36,7 +36,6 @@
 
 ### Day 2
 1. Recap Day 1
-
 2. Tenants of modern software development
 	* What we must do to end up with a working app:
 		* We must discover the problems the app would solve (requirements)
@@ -59,24 +58,20 @@
 
 ### Day 3
 1. Recap Day 2
-2. Applications overview
-	* What is the role of software?
-	* Operating systems vs. applications
-		* Types of applications:
-			* Mobile applications
-			* Embedded applications
-	* Where does IoT fit in?
-2. What is the Software Development Lifecycle?
-	* Requirement analysis & collection
-		* Roles:
-			* Product owner
-			* Project manager
-			* Business analyst
-			* CTO
-	* Design
-		* Who designs?
-			* System architect
-			* UX/UI designer
+2. Networking
+	• Network packet transmission
+	• 7 Layers of the OSI model
+		○ Layer 1 - Physical
+		○ Layer 2 - Data-Link
+		○ Layer 3 - Network
+		○ Layer 4 - Transport
+		○ Layer 5 - Session
+		○ Layer 6 - Presentation
+		○ Layer 7 - Application
+3. LANs and WANs
+	• Network Operation
+		○ Network Ports
+		○ 3-Way Handshake
 4. Questions?
 5. Recap day 3
 6. Preview of week 2
