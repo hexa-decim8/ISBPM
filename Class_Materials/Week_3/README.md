@@ -25,6 +25,7 @@
 
 ### Day 2
 1. Review of Day 1
+2. Purdue Model
 2. Industry Standards in depth
 3. Information sensitivities
 	* HIPAA
