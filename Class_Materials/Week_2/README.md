@@ -1,60 +1,81 @@
 # Intro to Software Business Product Management
 ## Week 2
 ### Day 1
-1. Week 1 review
-2. Continuing the SDLC
+1. Recap week 1
+2. Securing and Encrypting Data
+	* Hashing
+	* What is encryption?
+	* History of encryption
+	* What do we encrypt?
+	* Why do we encrypt?
+	* How does encryption work?
+		* Data in motion/Data at rest/Data in use
+		* Symmetric key encryption
+			* Pre-shared key
+		* Asymmetric key encryption
+			* RSA keys
+3. Securing Network Connections
+	* Trust & encryption
+	* Security certificates
+		* What are they?
+		* What do they do?
+			* HTTPS
+		* How do we get them?
+	* SSH
+	* Virtual Private Networks
+4. Questions?
+5. Recap day 1
+6. Preview of day 2
+
+## References
+* https://gchq.github.io/CyberChef/
+
+
+### Day 2
+1. Recap Day 1
+2. Applications overview
+	* What is the role of software?
+	* Operating systems vs. applications
+		* Types of applications:
+			* Mobile applications
+			* Embedded applications
+	* Where does IoT fit in?
+3. What is the Software Development Lifecycle?
+	* Requirement analysis & collection
+		* Roles:
+			* Product owner
+			* Project manager
+			* Business analyst
+			* CTO
+	* Design
+		* Who designs?
+			* System architect
+			* UX/UI designer
+4. Questions?
+5. Recap day 2
+6. Preview of day 3
+
+## References
+* https://www.itrelease.com/2021/03/what-are-layers-of-operating-system/
+
+### Day 3
+1. Day 2 review
+2. What is the Software Development Lifecycle?
+	* Requirement analysis & collection
+		* Roles:
+			* Product owner
+			* Project manager
+			* Business analyst
+			* CTO
+	* Design
+		* Who designs?
+			* System architect
+* UX/UI designer
 	* Implementation
 		* Who builds?
 			* "front-end" developer
 			* "back-end" developer
-	* Testing
-		* How do we test?
-			* Solutions architect
-			* QA engineer
-			* Tester
-			* DEVOPS
-	* Deployment
-		* Data Administrator
-		* DEVOPS
-	* Maintenance
-		* Users
-		* Testers
-		* Support managers/field operations/customer support
 3. The Circle of Life!
 4. Questions?
-5. Recap day 1
-6. Preview day 2
-
-### Day 2
-1. Review of day 1
-2. Sensitivities of the SDLC
-	* What breaks the SDLC?
-		* Poor communication
-		* Poor codebase maintenance/management (code commenting or lack-thereof)
-		* "Scope creep"
-3. Architecture development
-	* What's important?
-	* General architecture choices
-		* Cloud based architecture?
-		* "on-prem"
-4. Questions?
-5. Recap day 2
-6. Preview day 3
-
-### Day 3
-1. Review of day 2
-2. Architecture Development Model
-	* How the ADM is similar to the SDLC
-	* Prelim: start with the principles
-	* A: Architecture vision
-	* B: Business architecture
-	* C: Information systems architectures
-	* D: Technology architecture
-	* E: Opportunities & solutions
-	* F: Migration planning
-	* G: Implementation planning
-	* H: Architecture change management
-	* Requirements management on all steps
-3. Questions?
-4. Recap day 3
-5. Preview week 3
+5. Recap day 3
+6. Preview week 3
