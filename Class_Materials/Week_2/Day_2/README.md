@@ -26,3 +26,5 @@
 
 ## References
 * https://www.itrelease.com/2021/03/what-are-layers-of-operating-system/
+* https://gchq.github.io/CyberChef/
+* https://en.wikichip.org/wiki/intel/core_i9

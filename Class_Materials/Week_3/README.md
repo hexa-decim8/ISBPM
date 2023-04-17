@@ -26,12 +26,12 @@
 ### Day 2
 1. Review of Day 1
 2. Purdue Model
-2. Industry Standards in depth
-3. Information sensitivities
+3. Industry Standards in depth
+4. Information sensitivities
 	* HIPAA
 	* Legal privacy
-4. Questions?
-5. Recap day 2
+5. Questions?
+6. Recap day 2
 
 ### Day 3
 Guest speaker!

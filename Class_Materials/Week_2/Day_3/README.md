@@ -2,6 +2,8 @@
 ## Week 2
 ### Day 3
 1. Day 1 review
+2. What are APIs?
+3. How do we secure API access?
 2. What is the Software Development Lifecycle?
 	* Requirement analysis & collection
 		* Roles:
