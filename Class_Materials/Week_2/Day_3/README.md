@@ -29,4 +29,6 @@
 * https://nordicapis.com/apis-101-what-is-an-api-call/
 * https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
 * https://rapidapi.com/weatherapi/api/weatherapi-com
+* https://www.dragos.com/wp-content/uploads/TRISIS-01.pdf
+* https://www.cyberark.com/resources/threat-research-blog/anatomy-of-the-triton-malware-attack
 
