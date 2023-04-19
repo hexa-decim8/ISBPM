@@ -31,4 +31,6 @@
 * https://rapidapi.com/weatherapi/api/weatherapi-com
 * https://www.dragos.com/wp-content/uploads/TRISIS-01.pdf
 * https://www.cyberark.com/resources/threat-research-blog/anatomy-of-the-triton-malware-attack
+* https://developer.android.com/kotlin
+* https://developer.apple.com/swift/
 
