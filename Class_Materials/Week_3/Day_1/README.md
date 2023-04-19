@@ -22,3 +22,6 @@
 4. Questions?
 5. Recap day 1
 6. Preview day 2
+
+### References
+* https://aristeksystems.com/blog/sdlc-overview/
