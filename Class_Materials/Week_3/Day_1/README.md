@@ -25,3 +25,4 @@
 
 ### References
 * https://aristeksystems.com/blog/sdlc-overview/
+* https://intersog.com/blog/alternative-software-development-methodologies/
