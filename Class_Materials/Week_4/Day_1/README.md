@@ -1,4 +1,4 @@
 # Intro to Software Business Product Management
-## Week 3
-### Day 3
+## Week 4
+### Day 1
 Guest speaker!

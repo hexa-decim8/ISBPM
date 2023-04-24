@@ -10,3 +10,6 @@
 	* Legal privacy
 5. Questions?
 6. Recap day 2
+
+### References
+* https://medium.com/@vivekshah.P/the-look-and-feel-vs-the-user-experience-of-mobile-app-81fe88e5b6de
