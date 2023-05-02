@@ -20,7 +20,11 @@
 		* Pull Request
 		* Merging
 	* Working with others
-		* fork
+		* Fork
 	* Licensing
 	* Release Candidates
 	* Release Notes
+
+### References
+* https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/
+* https://ops.fhwa.dot.gov/publications/seitsguide/section3.htm
