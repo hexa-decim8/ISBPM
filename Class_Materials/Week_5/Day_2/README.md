@@ -22,3 +22,4 @@ Managing & Prioritizing Tasking
 	
 ### References:
 * Software Dev Management The Complete Software Project Manager Mastering Technology From Planning To Launch And Beyond
+* https://eliecasa.medium.com/why-phasing-your-product-launch-might-be-your-best-product-idea-ever-5-reasons-22a6be5daaa5
