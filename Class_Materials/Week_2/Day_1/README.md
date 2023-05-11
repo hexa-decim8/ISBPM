@@ -1,33 +1,30 @@
-# Intro to Software Business Product Management
-## Week 2
-### Day 1
-1. Recap week 1
-2. Securing and Encrypting Data
-	* Hashing
-	* What is encryption?
-	* History of encryption
-	* What do we encrypt?
-	* Why do we encrypt?
-	* How does encryption work?
-		* Data in motion/Data at rest/Data in use
-		* Symmetric key encryption
-			* Pre-shared key
-		* Asymmetric key encryption
-			* RSA keys
-3. Securing Network Connections
-	* Trust & encryption
-	* Security certificates
-		* What are they?
-		* What do they do?
-			* HTTPS
-		* How do we get them?
-	* SSH
-	* Virtual Private Networks
-4. Questions?
-5. Recap day 1
-6. Preview of day 2
+## Week 1
+### Day 3
+1. Recap Day 1
+2. Tenants of modern software development
+	* What we must do to end up with a working app:
+		* We must discover the problems the app would solve (requirements)
+		* We must figure out how this app will do what it does
+			* pseudocode/work & process flow
+		* We must separate our duties
+			* what processing happens where?
+		* How do we know the code works?
+			* Testing
+		* We must distribute the app to our customers
+			* How do we know who our customers are?
+			* Is there sensitive information we need to be concerned with?
+		* We must support our customers
+			* Who is the "front door" for concerns with our app?
+			* How will our customers communicate their needs?
+			* How do we process those needs and synthesize them into new features?
+3. Questions?
+4. Review day 2
+5. Preview of Day 3
 
 ## References
-* https://gchq.github.io/CyberChef/
-* https://csrc.nist.gov/Projects/cryptographic-standards-and-guidelines
-* https://nakedsecurity.sophos.com/2015/06/11/49-busted-in-europe-for-man-in-the-middle-bank-attacks/
+* https://web.stanford.edu/class/cs101/software-1.html
+* https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/
+* https://github.com/twitter/the-algorithm
+* https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/nsfw/nsfw_text.py
+* https://github.com/hexa-decim8/girltalk/blob/master/girltalk.sh
+* https://github.com/0x5bfa/NT5.1/tree/master/Source/XPSP1/NT/shell/explorer
