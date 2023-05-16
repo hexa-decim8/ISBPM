@@ -1,30 +1,30 @@
-## Week 1
-### Day 3
-1. Recap Day 1
-2. Tenants of modern software development
-	* What we must do to end up with a working app:
-		* We must discover the problems the app would solve (requirements)
-		* We must figure out how this app will do what it does
-			* pseudocode/work & process flow
-		* We must separate our duties
-			* what processing happens where?
-		* How do we know the code works?
-			* Testing
-		* We must distribute the app to our customers
-			* How do we know who our customers are?
-			* Is there sensitive information we need to be concerned with?
-		* We must support our customers
-			* Who is the "front door" for concerns with our app?
-			* How will our customers communicate their needs?
-			* How do we process those needs and synthesize them into new features?
-3. Questions?
-4. Review day 2
-5. Preview of Day 3
+# Intro to Software Business Product Management
+## Week 2
+### Day 2
+1. Recap Day 2
+2. Applications overview
+	* What is the role of software?
+	* Operating systems vs. applications
+		* Types of applications:
+			* Mobile applications
+			* Embedded applications
+	* Where does IoT fit in?
+3. What is the Software Development Lifecycle?
+	* Requirement analysis & collection
+		* Roles:
+			* Product owner
+			* Project manager
+			* Business analyst
+			* CTO
+	* Design
+		* Who designs?
+			* System architect
+			* UX/UI designer
+4. Questions?
+5. Recap day 3
+6. Preview of week 2
 
 ## References
-* https://web.stanford.edu/class/cs101/software-1.html
-* https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/
-* https://github.com/twitter/the-algorithm
-* https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/nsfw/nsfw_text.py
-* https://github.com/hexa-decim8/girltalk/blob/master/girltalk.sh
-* https://github.com/0x5bfa/NT5.1/tree/master/Source/XPSP1/NT/shell/explorer
+* https://www.itrelease.com/2021/03/what-are-layers-of-operating-system/
+* https://gchq.github.io/CyberChef/
+* https://en.wikichip.org/wiki/intel/core_i9
