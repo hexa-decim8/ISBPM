@@ -26,12 +26,11 @@
 8. Preview day 2
 
 ### References
-* https://nordicapis.com/apis-101-what-is-an-api-call/
-* https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
-* https://rapidapi.com/weatherapi/api/weatherapi-com
 * https://www.dragos.com/wp-content/uploads/TRISIS-01.pdf
 * https://www.cyberark.com/resources/threat-research-blog/anatomy-of-the-triton-malware-attack
 * https://developer.android.com/kotlin
 * https://developer.apple.com/swift/
 * https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032/ref=sr_1_1?crid=28D3HMUJTO8WP&keywords=the+car+hackers+handbook&qid=1681917129&sprefix=the+car+hackers+handbook%2Caps%2C129&sr=8-1
+* https://owasp.org/www-project-top-ten/
+* https://github.com/OWASP/owasp-masvs/
 

@@ -31,3 +31,5 @@
 * https://gchq.github.io/CyberChef/
 * https://csrc.nist.gov/Projects/cryptographic-standards-and-guidelines
 * https://nakedsecurity.sophos.com/2015/06/11/49-busted-in-europe-for-man-in-the-middle-bank-attacks/
+* https://kestas.kuliukas.com/RainbowTables/
+* https://www.thesecurityblogger.com/understanding-rainbow-tables/
