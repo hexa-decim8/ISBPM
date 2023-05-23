@@ -38,25 +38,33 @@ In this class, we will be working with the following tools:
 * Confluence
 * Moodle
 
+### Breaks
+Each time we meet, we will have two 10-minute breaks spread out of the 3 hours of the class time. 
+
 ### Week-By-Week
 #### Week 1
-* Introductions
 * Class introduction
-* Introductory exploration of software & technology
-* Conceptualizing software development
-* Software Development Life Cycle
+* Intro to technology
+* Intro to networking
+* Intro to cryptography
+* Intro to operating systems
 
 #### Week 2
-* Continue SDLC understanding
-* Sensitivities of the SDLC
-* Architecture development
-* Architecture development model
+* Security and architecture
+* Separation of duties
+* Intro to coding & APIs
+* The Software Development Life Cycle (SDLC)
 
 #### Week 3
+* SDLC continued
+* Approaches to the SDLC
+* Introduction to Mobile (two days)
+
 
 #### Week 4
-
-#### Week 5
+* Github functionality and use (two days)
+* Coding standards
+* Management strategies
 
 ### Questions
 Asking questions is encouraged throughout the class time. There will be a time alloted at the end of each day to ask and answer any held questions, however participants need not feel pressure to wait until that time when an important question arises. 
