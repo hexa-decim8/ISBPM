@@ -67,4 +67,4 @@ Each time we meet, we will have two 10-minute breaks spread out of the 3 hours o
 * Management strategies
 
 ### Questions
-Asking questions is encouraged throughout the class time. There will be a time alloted at the end of each day to ask and answer any held questions, however participants need not feel pressure to wait until that time when an important question arises. 
+Asking questions is encouraged throughout the class time. There will be a time allotted at the end of each day to ask and answer any held questions, however participants need not feel pressure to wait until that time when an important question arises. 
