@@ -16,6 +16,7 @@
 	• Network Operation
 		○ Network Ports
 		○ 3-Way Handshake
-4. Questions?
-5. Recap day 3
-6. Preview of week 2
+4. VLANs
+5. Questions?
+6. Recap day 3
+7. Preview of week 2
