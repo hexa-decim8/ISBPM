@@ -1,6 +1,6 @@
 # Intro to Software Business Product Management
 ## Week 1
-### Day 1
+### Day 1 - Introductions and Technology
 1. Introductions
 	* Instructor introduction
 	* Where do you all come from?
@@ -30,9 +30,6 @@
 6. Questions?
 7. Review day 1
 8. Preview of Day 2
-	* Things to think about:
-		* How would you solve these problems?
-		* Are there any project management ideas you bring that may apply to some of these problems?
 
 ### Resources
 * https://csrc.nist.gov/glossary
