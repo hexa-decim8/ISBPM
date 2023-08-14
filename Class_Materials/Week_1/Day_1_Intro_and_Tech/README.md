@@ -1,4 +1,4 @@
-# Intro to Software Business Product Management
+# Intro to Software Development
 ## Week 1
 ### Day 1 - Introductions and Technology
 1. Introductions
@@ -18,7 +18,7 @@
 		* "the cloud"
 			* What is it?
 			* Have we seen this before? (mainframes?)
-		* Internet of Things
+		* Internet of Things (IOT)
 5. Why do we care about software development?
 	* What happens when we get software development wrong?
 		* Exploitation & failure
@@ -28,8 +28,8 @@
 		* "spaghetti code"
 		* difficulty maintaining codebase in the future (i.e. 'legacy' development issues...very costly)
 6. Questions?
-7. Review day 1
-8. Preview of Day 2
+7. Recap of this session
+8. Preview of next session
 
 ### Resources
 * https://csrc.nist.gov/glossary

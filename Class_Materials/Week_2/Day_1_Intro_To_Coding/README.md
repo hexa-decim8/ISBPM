@@ -1,28 +1,26 @@
-# Intro to Software Business Product Management
+# Intro to Software Development
 ## Week 2
-### Day 2
-1. Recap Day 2
-2. Applications overview
-	* What is the role of software?
-	* Operating systems vs. applications
-		* Types of applications:
-			* Mobile applications
-			* Embedded applications
-	* Where does IoT fit in?
-3. What is the Software Development Lifecycle?
-	* Requirement analysis & collection
-		* Roles:
-			* Product owner
-			* Project manager
-			* Business analyst
-			* CTO
-	* Design
-		* Who designs?
-			* System architect
-			* UX/UI designer
+### Day 1 - Intro To Coding
+1. Recap last session
+2. Coding core concepts
+    * What is programming?
+    * How do we arrive at programming?
+    * Basic coding functionality:
+        * Loops
+        * Nesting
+        * Case statements
+        * Libraries
+        * Pseudocode
+        * Dependencies
+    * Operands
+        * And/Or/Not
+        * Boolean
+        * Variables
+3. Modern software development concepts
+    * Who makes code?
 4. Questions?
-5. Recap day 3
-6. Preview of week 2
+5. Recap this session
+6. Preview of next sesion
 
 ## References
 * https://www.itrelease.com/2021/03/what-are-layers-of-operating-system/

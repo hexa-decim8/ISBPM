@@ -1,7 +1,7 @@
-# Intro to Software Business Product Management
-## Week 2
-### Day 1
-1. Recap week 1
+# Intro to Software Development
+## Week 1
+### Day 3
+1. Recap last session
 2. Securing and Encrypting Data
 	* Hashing
 	* What is encryption?
@@ -24,8 +24,8 @@
 	* SSH
 	* Virtual Private Networks
 4. Questions?
-5. Recap day 1
-6. Preview of day 2
+5. Recap of this session
+6. Preview of next session
 
 ## References
 * https://gchq.github.io/CyberChef/
