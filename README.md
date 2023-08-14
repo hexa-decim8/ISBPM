@@ -29,7 +29,7 @@ Participants of this class will leave with an understanding of:
 ## Class Organization
 
 ### Attendance Policy
-Every student is allows *2* missed sessions with a courtesy note to the instructor.
+Every student is allowed *2* missed sessions (please provide a note to the instructor for the absence.) Any additional absences may result in loss of credit for the course.
 
 ### Grading
 This class will not be graded, and there will be no take-home assignments. Because this is a continuing education class, success depends entirely on the level of effort you as an individual commits to understanding the material.
@@ -46,8 +46,7 @@ Each time we meet, we will have two 10-minute breaks spread out of the 3 hours o
 
 ### Week-By-Week
 #### Week 1
-* Class introduction
-* Intro to technology
+* Class & technology introduction
 * Intro to networking
 * Intro to cryptography
 * Intro to operating systems
