@@ -1,6 +1,6 @@
-# Intro to Software Business Product Management
+# Intro to Software Development
 ## Week 5
-### Day 3
+### Day 4
 * Scoping
 	* Creating Initial Scope
 	* Maintaining consistency of scope

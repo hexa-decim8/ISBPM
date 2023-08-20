@@ -1,6 +1,6 @@
-# Intro to Software Business Product Management
+# Intro to Software Development
 ## Week 4
-### Day 2
+### Day 2 - Github Day 2
 * Producing Published Software
 	* Git Basics
 		* GUI
