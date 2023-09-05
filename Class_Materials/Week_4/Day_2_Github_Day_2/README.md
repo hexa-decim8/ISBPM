@@ -1,29 +1,21 @@
 # Intro to Software Development
 ## Week 4
-### Day 2 - Github Day 2
+### Day 2 - Github and Licensing
 * Producing Published Software
-	* Git Basics
+	* Git Basics (cont)
 		* GUI
 		* CLI
-		* Clone
-		* Repositories
+		* Rebasing
 	* Version Control
 		* Publishing through git
-			* Branching
-			* Commit
-			* Push
-			* Diff
-	* Conflict resolution
-		* Return to branching
-		* Checkout
-		* Pull
-		* Pull Request
-		* Merging
+			* Pull Request
+			* Code Reviews
+			* Release Candidates
+			* Release Notes
 	* Working with others
-		* Fork
+		* Forking
 	* Licensing
-	* Release Candidates
-	* Release Notes
+
 
 ### References
 * https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/

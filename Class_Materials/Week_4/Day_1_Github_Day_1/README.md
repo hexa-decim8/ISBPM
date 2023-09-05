@@ -9,9 +9,13 @@
 	* Managing github repositories
 		* Git vs. Github
 		* Git workflow
-		* Repositories
-		* Commits
-		* Branching
-		* Push
-		* Merge Conflicts
-		* Diff
+		* Repository control
+			* Commits
+			* Branching
+			* Pushing
+			* Cloning
+		* Conflict Resolution
+			* Merge Conflicts
+			* Diff
+* Questions
+* Preview of Next Session
