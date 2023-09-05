@@ -1,4 +1,4 @@
-# Intro to Software Business Product Management - Syllabus
+# Intro to Software Development - Syllabus
 ## Instructor Contact
 Instructor: Emily Crose
 
@@ -37,7 +37,7 @@ In this class, we will be working with the following tools:
 * [Github](https://github.com/hexa-decim8/ISBPM)
 * Jira
 * Confluence
-* [Moodle](ttps://moodle.oakland.edu)
+* [Moodle](https://moodle.oakland.edu)
 
 ### Breaks
 Each time we meet, we will have two 10-minute breaks spread out of the 3 hours of the class time. 
