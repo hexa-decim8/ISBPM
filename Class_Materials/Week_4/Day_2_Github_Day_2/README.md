@@ -1,7 +1,7 @@
 # Intro to Software Development
 ## Week 4
 ### Day 2 - Github and Licensing
-* Producing Published Software
+1. Producing Published Software
 	* Git Basics (cont)
 		* GUI
 		* CLI
@@ -20,8 +20,9 @@
 		* Commercial/Proprietary
 		* Public Domain
 		* MIT
-* Questions
-* Next Session Preview
+2. Questions?
+3. Recap last session
+4. Preview next session
 
 ### References
 * https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/

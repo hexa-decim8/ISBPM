@@ -1,10 +1,10 @@
 # Intro to Software Development
 ## Week 4
 ### Day 1 - Github Day 1
-* Operating systems practical
+1. Operating systems practical
 	* Graphic User Interface (GUI)
 	* Command Line Interface (CLI)
-* Modern code development
+2. Modern code development
 	* Github introduction
 	* Managing github repositories
 		* Git vs. Github
@@ -17,5 +17,6 @@
 		* Conflict Resolution
 			* Merge Conflicts
 			* Diff
-* Questions
-* Preview of Next Session
+3. Questions?
+4. Recap last session
+5. Preview next session
