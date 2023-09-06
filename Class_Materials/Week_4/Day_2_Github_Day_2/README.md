@@ -20,6 +20,8 @@
 		* Commercial/Proprietary
 		* Public Domain
 		* MIT
+* Questions
+* Next Session Preview
 
 ### References
 * https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/

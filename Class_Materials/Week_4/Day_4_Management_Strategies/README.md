@@ -15,6 +15,7 @@ Managing & Prioritizing Tasking
 * Managing FUD
 * Psychology of software management
 	* Sunk-cost bias
+* Questions
 	
 ### References:
 * Software Dev Management The Complete Software Project Manager Mastering Technology From Planning To Launch And Beyond
