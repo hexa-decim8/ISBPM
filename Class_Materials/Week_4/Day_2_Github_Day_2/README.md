@@ -15,7 +15,11 @@
 	* Working with others
 		* Forking
 	* Licensing
-
+		* Weak Copyleft
+		* Copyleft
+		* Commercial/Proprietary
+		* Public Domain
+		* MIT
 
 ### References
 * https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/
