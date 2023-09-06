@@ -43,24 +43,24 @@ In this class, we will be working with the following tools:
 Each time we meet, we will have two 10-minute breaks spread out of the 3 hours of the class time. 
 
 ### Week-By-Week
-#### Week 1
+#### Week 1 (3 days)
 * Class & technology introduction
 * Intro to networking
 * Intro to cryptography
 * Intro to operating systems
 
-#### Week 2
+#### Week 2 (4 days)
 * Security and architecture
 * Separation of duties
 * Intro to coding & APIs
 * The Software Development Life Cycle (SDLC)
 
-#### Week 3
+#### Week 3 (4 days)
 * SDLC continued
 * Approaches to the SDLC
 * Introduction to Mobile (2 days)
 
-#### Week 4
+#### Week 4 (4 days)
 * Github functionality and use (2 days)
 * Coding standards
 * Management strategies
